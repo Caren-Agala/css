@@ -1,4 +1,9 @@
-/* class selectors */
+/* font-size, width, height, pixels */
+h1{
+    font-size: 60px;
+    width: 200px;
+    background-color: aqua;
+}
 .one{
     color: gold;
     background-color: black;
