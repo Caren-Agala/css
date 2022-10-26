@@ -5,11 +5,11 @@
 }
 .two{
     color: red;
-    background-color: palevioletred;
+    background-color: rgba(0, 0, 0, 0.7);
 }
 div{
     color: gold;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.7);
 }
 span{
     text-transform: uppercase;
