@@ -1,9 +1,13 @@
-/* font-size, width, height, pixels */
-h1{
-    font-size: 60px;  
-    /* pixels are absolute values i.e don't change with screen size */
-    width: 200px;
-    height: 300px;
-    
-    background-color: aqua;
+/* Percent values - Relative values */
+
+.outer{
+    width: 500px;
+    height: 600px;
+    background-color: chartreuse;
+}
+
+.inner{
+    width: 50%;
+    height: 50%;
+    background-color: aquamarine;
 }
